@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 num_1 = 2
 num_2 = 4
 
