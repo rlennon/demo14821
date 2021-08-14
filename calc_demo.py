@@ -1,4 +1,4 @@
-print("Calculator")
+
 num_1 = 2
 num_2 = 4
 
